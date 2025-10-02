@@ -17,6 +17,6 @@ public class ShapeDemo {
 			shape.erase();
 			System.out.println("----------------------"); 
 
-	}
-
-}
+	    }
+	  }
+ }
